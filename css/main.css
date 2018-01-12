@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css?family=Istok+Web|Tinos');
+
+body{
+    background-color: #6AA1D6;
+    font-family: 'Istok Web', Arial, Helvetica, sans-serif;
+}
+
+h2,
+h3,
+h4{
+    font-family: 'Tinos', Courier,serif;
+
+}
+
+.row{
+    text-align:center;
+    align-content: center;
+    margin: 0 auto;
+}
+.container{
+    align-content:center;
+}
+
+
+.grid{
+    
+    border:2px solid black;
+    padding:10px;
+    background-color:#9BB9D6;
+    margin: 5px;
+    height: 17rem;
+    
+} 
+.homeCard{
+    background-color:#90A4AD;
+    margin:10px;
+    height: 20rem;
+}
+
+
+.signUp{
+    text-align: left;
+    background-color:#90A4AD;
+    border:2px solid #000000;
+    
+}
+footer{
+    background-color: #2C58B0;
+    text-align: center;
+    
+}
